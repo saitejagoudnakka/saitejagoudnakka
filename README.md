@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Teja Goud Nakka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Html,Css**
+- 💬 Ask me about **Html,Css,JavaScript,Java**
 
 - 📫 How to reach me **saitej512@gmail.com**
 
